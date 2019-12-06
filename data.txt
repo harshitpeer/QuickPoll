@@ -1,0 +1,4 @@
+Do you want a WordPress Plugin version of TMail?
+Yes, it will be better to have a WordPress Plugin
+No, it works better standalone as TMail
+Maybe
