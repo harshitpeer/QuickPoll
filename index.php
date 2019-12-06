@@ -12,4 +12,3 @@
     <h1>Silence is Golden</h1>
     <h3>So is <a href="https://github.com/harshitpeer/QuickPoll">QuickPoll</a></h3>
 </div>
-<script data-url="http://localhost:8181" id="quickpoll-js" src="./widget.js"></script>
