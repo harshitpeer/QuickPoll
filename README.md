@@ -4,7 +4,7 @@ This is a super simple, easy to use and install, polling app which you can insta
 
 ## Demo
 
-You can checkout a QuickPoll Demo [here](https://quickpoll.thehp.tech)
+You can checkout a QuickPoll Demo [here](https://harshitpeer.com/blog)
 
 ## Install
 
@@ -20,7 +20,39 @@ You can checkout a QuickPoll Demo [here](https://quickpoll.thehp.tech)
 Replace `[YOUR_QUICKPOLL_URL]` with the URL where you had installed QuickPoll. For example, if you had installed QuickPoll on https://quickpoll.thehp.tech then your code should look like
 
 ```sh
-<script data-url="https://quickpoll.thehp.tech" id="quickpoll-js" src="https://quickpoll.thehp.tech/widget.js">
+<script data-url="https://quickpoll.domain.com" id="quickpoll-js" src="https://quickpoll.domain.com/widget.js">
+```
+
+## Customization
+
+You can customize the color and can enable auto-open feature in QuickPoll. 
+
+### Color
+
+To add your own color use following attribute in your script tag
+
+```sh
+data-color="#HEXCOD"
+```
+
+Example,
+
+```sh
+<script data-url="https://quickpoll.domain.com" data-color="#ED008C" id="quickpoll-js" src="https://quickpoll.domain.com/widget.js">
+```
+
+### Auto-Open
+
+To enable auto-open, add following attribute in your script tag
+
+```sh
+data-autoopen="true"
+```
+
+Example,
+
+```sh
+<script data-url="https://quickpoll.domain.com" data-autoopen="true" id="quickpoll-js" src="https://quickpoll.domain.com/widget.js">
 ```
 
 ## Developer
