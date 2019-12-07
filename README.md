@@ -17,7 +17,7 @@ You can checkout a QuickPoll Demo [here](https://harshitpeer.com/blog)
 <script data-url="[YOUR_QUICKPOLL_URL]" id="quickpoll-js" src="[YOUR_QUICKPOLL_URL]/widget.js">
 ```
 
-Replace `[YOUR_QUICKPOLL_URL]` with the URL where you had installed QuickPoll. For example, if you had installed QuickPoll on https://quickpoll.thehp.tech then your code should look like
+Replace `[YOUR_QUICKPOLL_URL]` with the URL where you had installed QuickPoll. For example, if you had installed QuickPoll on https://quickpoll.domain.com then your code should look like
 
 ```sh
 <script data-url="https://quickpoll.domain.com" id="quickpoll-js" src="https://quickpoll.domain.com/widget.js">
