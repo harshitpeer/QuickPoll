@@ -2,10 +2,6 @@
 
 This is a super simple, easy to use and install, polling app which you can install on your PHP based server and started receiving opinions from the world.
 
-## Demo
-
-You can checkout a QuickPoll Demo [here](https://harshitpeer.com/blog)
-
 ## Install
 
 * Download the Source Code using [this URL](https://github.com/harshitpeer/QuickPoll/archive/master.zip)
